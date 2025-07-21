@@ -12,9 +12,11 @@
   },
   "dependencies": {
     "@repo/db": "*",
-    "@repo/ui": "*",
     "@repo/store": "*",
+    "@repo/ui": "*",
+    "bcrypt": "^6.0.0",
     "next": "^15.3.0",
+    "next-auth": "^4.24.11",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "recoil": "^0.7.7"
@@ -25,6 +27,7 @@
     "@repo/tailwind-config": "*",
     "@repo/typescript-config": "*",
     "@tailwindcss/postcss": "^4.1.5",
+    "@types/bcrypt": "^6.0.0",
     "@types/node": "^22.15.30",
     "@types/react": "^19.1.0",
     "@types/react-dom": "^19.1.1",
