@@ -6,5 +6,6 @@ export default {
   content: [
     ...sharedConfig.content,
     "./app/**/*.{js,ts,jsx,tsx}",
+    "../../packages/ui/src/**/*.{js,ts,jsx,tsx}"
   ]
 } 

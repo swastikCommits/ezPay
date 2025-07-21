@@ -11,6 +11,9 @@
   "devDependencies": {
     "prettier": "^3.6.0",
     "prettier-plugin-tailwindcss": "^0.6.11",
+    "@repo/eslint-config": "*",
+    "@repo/tailwind-config": "*",
+    "@repo/typescript-config": "*",
     "turbo": "^2.5.5"
   },
   "engines": {
