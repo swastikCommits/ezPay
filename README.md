@@ -1,7 +1,3 @@
-## Architecture
-![Screenshot_2024-03-23_at_6 35 20_PM](https://github.com/user-attachments/assets/749c6891-5791-4549-a2a3-e9dfe61c3852)
-
-
 
 ## Setup
 - Clone the repo
